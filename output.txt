@@ -1,0 +1,52 @@
+Maze tiles file: Maze.txt
+
+ 0123
+0PXXX
+1WWXE
+2PXXX
+Player 1 position : (0,0)
+Enter player 1's number 1 move: right
+ 0123
+0SPXX
+1WWXE
+2PXXX
+Player 2 position : (2,0)
+Enter player 2's number 1 move: down
+Cant move that way, try again
+Player 2 position : (2,0)
+Enter player 2's number 1 move: right
+ 0123
+0SPXX
+1WWXE
+2SPXX
+Player 1 position : (0,1)
+Enter player 1's number 2 move: r
+ 0123
+0SXPX
+1WWXE
+2SPXX
+Player 2 position : (2,1)
+Enter player 2's number 2 move: r
+ 0123
+0SXPX
+1WWXE
+2SXPX
+Player 1 position : (0,2)
+Enter player 1's number 3 move: r
+ 0123
+0SXXP
+1WWXE
+2SXPX
+Player 2 position : (2,2)
+Enter player 2's number 3 move: r
+ 0123
+0SXXP
+1WWXE
+2SXXP
+Player 1 position : (0,3)
+Enter player 1's number 4 move: down
+ 0123
+0SXXX
+1WWXP
+2SXXP
+Player 1 has won!!
